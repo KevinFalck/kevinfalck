@@ -2,7 +2,7 @@
 
   <img src="https://i.postimg.cc/nLQw6TJR/FALCK-SYSTEMS-ENTREPRISE-ARCHITECTE-FULLSTACK-AI.png" alt="FALCK® Systems" width="15%" />
 
-  <br/>
+ <br/>
   <br/>
 
   # FALCK® SYSTEMS
@@ -34,26 +34,26 @@ Je ne suis pas ici pour remplir des tickets Jira. Je suis ici pour transformer l
 
 ## 🏗️ Architecture & Impact
 
-### 🔹 IDDAN (SaaS B2B)
-> **De la fragilité à la Guerre Économique.**
-> Refonte totale de l'infrastructure pour supporter le scaling national.
+### 🔹 IDDAN (SaaS B2B Coiffure - Flutter/AWS)
+> **De MVP instable à Infrastructure de Guerre.**
+> Refonte architecturale totale (Cloudfront/EC2) pour le scaling national.
 >
-> * **Stack :** Flutter (60fps) • AWS EC2/Cloudfront • Node.js
-> * **Impact :** Architecture prête pour +1000 salons. Zéro downtime.
+> * **Résultat :** Application native fluide (60fps), prête pour +1000 salons.
+> * **Impact :** Zéro dette technique. Scaling immédiat.
 
-### 🔹 TROKY (Marketplace C2C)
-> **L'Idée au Marché en un éclair.**
-> Preuve qu'on peut aller vite sans casser les choses.
+### 🔹 TROKY (Marketplace C2C - Flutter)
+> **L'idée au Marché en 2 semaines.**
+> Construction d'un MVP complet et fonctionnel en un sprint unique.
 >
-> * **Stack :** Flutter • Firebase • Stripe Connect
-> * **Impact :** Time-to-Market : **14 Jours**. Validation immédiate.
+> * **Résultat :** Time-to-Market : **14 jours**.
+> * **Impact :** Validation immédiate du business model.
 
-### 🔹 ARTISANS DE FRANCE (Lead Gen)
-> **Conversion Agressive.**
-> Optimisation UX/UI et SEO technique pour la performance pure.
+### 🔹 ARTISANS DE FRANCE (Plateforme Lead Gen)
+> **Refonte orientée Conversion.**
+> Optimisation radicale de l'UX et du SEO technique.
 >
-> * **Stack :** Next.js • Tailwind • Vercel
-> * **Impact :** Leads **x3** en 30 jours. ROI < 7 jours.
+> * **Résultat :** Leads **x3** en un mois.
+> * **Impact :** Croissance de **+200%**.
 
 ---
 
