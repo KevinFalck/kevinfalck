@@ -1,59 +1,91 @@
-# 👋 Hi, I'm Kévin.
+<div align="center">
 
-### I don't just write code. I build products that sell.
+  <img src="https://i.postimg.cc/nLQw6TJR/FALCK-SYSTEMS-ENTREPRISE-ARCHITECTE-FULLSTACK-AI.png" alt="FALCK® Systems" width="15%" />
 
-I'm a **FullStack Architect** focused on high-performance web & mobile applications. My goal is simple: bridge the gap between complex engineering and seamless user experience.
+  <br/>
+  <br/>
 
----
+  # FALCK® SYSTEMS
 
-### 🚀 Featured Work
+  **V E L O C I T Y &nbsp; B Y &nbsp; D E S I G N**
 
-| Project | Role | Stack | Impact |
-| :--- | :--- | :--- | :--- |
-| **[Troky.fr](https://troky.fr)** | Lead Architect | `Flutter` `AWS` `Node.js` | **MVP to Market in 2 weeks.** Validated C2C sharing economy model. |
-| **[Iddan](https://iddan.fr)** | FullStack Dev | `Flutter` `Rails` | **+150 active users/week.** SaaS scaling for beauty salons. |
-| **[Artisans de France](https://lesartisansdefrance.com)** | Tech Consultant | `Web` `SEO` `Automation` | **Leads x3 in 30 days.** Digital transformation for craftsmen. |
+  <br/>
 
----
+  > "Les amateurs codent des fonctionnalités. Je bâtis des Systèmes."
 
-### 🛠️ Technical Arsenal
+  <br/>
 
-Here is the technology I use to turn ideas into reality:
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FALCK_SYSTEMS-white?style=for-the-badge&logoColor=black)](https://kevinfalck.com)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kevinfalck)
 
-*   **Mobile First:** `Flutter` (Expert), `Dart`
-*   **Robust Backend:** `Ruby on Rails`, `Node.js`
-*   **Infrastructure:** `AWS` (EC2, S3, Lambda), `Docker`, `CI/CD`
-*   **Frontend Polish:** `TailwindCSS`, `GSAP`, `React`
+</div>
 
----
+<br/>
 
-### 💡 My Philosophy
+## ⚡ L'Architecte
 
-> *"Code is a liability. Functionality is an asset."*
+Je ne suis pas ici pour remplir des tickets Jira. Je suis ici pour transformer la complexité technique en **Actifs Business Valorisables**.
 
-I believe in:
-1.  **Pragmatism over Hype:** Choosing the right tool for the job, not the newest one.
-2.  **User-Centric Architecture:** Performance is a feature. Accessibility is a must.
-3.  **Shipping:** Perfection is the enemy of done. I ship, I iterate, I improve.
+- **Obsession :** Zéro dette technique.
+- **Méthode :** Construction modulaire & Scaling horizontal.
+- **Vitesse :** MVP en 14 jours. Audit en 48h.
 
 ---
 
-### 🤝 Let's Build Something
+## 🏗️ Architecture & Impact
 
-I am currently **open** to selective freelance opportunities or high-impact roles.
+### 🔹 IDDAN (SaaS B2B)
+> **De la fragilité à la Guerre Économique.**
+> Refonte totale de l'infrastructure pour supporter le scaling national.
+>
+> * **Stack :** Flutter (60fps) • AWS EC2/Cloudfront • Node.js
+> * **Impact :** Architecture prête pour +1000 salons. Zéro downtime.
 
-*   🌐 **Portfolio:** [kevinfalck.com](https://kevinfalck.com)
-*   📫 **Email:** [contact@kevinfalck.com](mailto:contact@kevinfalck.com)
-*   👔 **LinkedIn:** [linkedin.com/in/kevinfalck](https://www.linkedin.com/in/kevinfalck)
+### 🔹 TROKY (Marketplace C2C)
+> **L'Idée au Marché en un éclair.**
+> Preuve qu'on peut aller vite sans casser les choses.
+>
+> * **Stack :** Flutter • Firebase • Stripe Connect
+> * **Impact :** Time-to-Market : **14 Jours**. Validation immédiate.
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 ARTISANS DE FRANCE (Lead Gen)
+> **Conversion Agressive.**
+> Optimisation UX/UI et SEO technique pour la performance pure.
+>
+> * **Stack :** Next.js • Tailwind • Vercel
+> * **Impact :** Leads **x3** en 30 jours. ROI < 7 jours.
+
+---
+
+## 🛠️ L'Arsenal (La Stack de Combat)
+
+Je n'utilise pas des outils parce qu'ils sont "tendance". Je les utilise parce qu'ils livrent.
+
+<div align="center">
+
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  <br/>
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  ### Votre vision mérite ma vélocité.
+  [Réserver un Audit Stratégique](https://kevinfalck.com)
+
+  <br/>
+  <br/>
+  <p align="center">© 2025 FALCK® Systems. All systems nominal.</p>
+
+</div>
