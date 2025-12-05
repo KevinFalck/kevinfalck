@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.postimg.cc/nLQw6TJR/FALCK-SYSTEMS-ENTREPRISE-ARCHITECTE-FULLSTACK-AI.png" alt="FALCK® Systems" width="15%" />
+  <img src="https://kevinfalck.com/assets/FALCK-SYSTEMS-ENTREPRISE-ARCHITECTE-FULLSTACK-AI-YDb4N2zt.png" alt="FALCK® Systems" width="15%" />
 
  <br/>
   <br/>
